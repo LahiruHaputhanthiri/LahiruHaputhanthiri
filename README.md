@@ -1,113 +1,90 @@
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="180" alt="Astrocat" />
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4130&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Lahiru+Haputhanthiri;Full+Stack+Developer+%26+Open+Source+Enthusiast;DevOps+Explorer+%7C+UI%2FUX+Lover;NIBM+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
-</div>
-
-<br>
-
-<h3 align="center">
-  Passionate Full-Stack Developer from Sri Lanka 🇱🇰<br>
-  Building scalable web & mobile apps • Contributing to open source • Automating everything with DevOps
-</h3>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lahiru-kavishal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/27490211/lahiru-kavishal">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thushara.lahiru/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lahirukawishal33.m@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LahiruHaputhanthiri&label=Profile+Views&color=ff4130&style=flat-square" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/LahiruHaputhanthiri?style=social" alt="GitHub followers" />
-</div>
-
-<br>
-
+<p align="center">
+&nbsp;<a href="https://github.com/LahiruHaputhanthiri">
+&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
+&nbsp;</a>
+</p>
+<p align="center" width="100%">
+&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Lahiru%20Haputhanthiri;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+</p>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and love how collaboration and knowledge sharing happen through open-source. I'm also deeply interested in DevOps Engineering, exploring ways to automate and streamline development and deployment processes for efficient software delivery.</h3>
+<br/>
+<br/>
+<!-- Social icons section -->
+<p align="center">
+<a href="www.linkedin.com/in/lahiru-kavishal" target="_blank">
+&nbsp;&nbsp;<img align="center" alt="Lahiru Kavishal | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a> &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/27490211/lahiru-kavishal" target="_blank">
+&nbsp;&nbsp;<img align="center" alt="Lahiru Kavishal | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/thushara.lahiru/" target="_blank">
+&nbsp;&nbsp;<img align="center" alt="Thushara Lahiru | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+</a> &nbsp;&nbsp;
+<p>
+&nbsp;
+<br/>
+<!-- Badges with custom icons section -->
+<p align="center" width="100%">
+<a href="https://github.com/LahiruHaputhanthiri?tab=followers" target="_blank">
+&nbsp;&nbsp;<img align="center" alt="LahiruHaputhanthiri | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=LahiruHaputhanthiri&style=plastic" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/LahiruHaputhanthiri?tab=followers" target="_blank">
+&nbsp;&nbsp;<img align="center" alt="Lahiru Haputhanthiri | followers" width="93px" src="https://img.shields.io/github/followers/LahiruHaputhanthiri?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+</p>
+<br/>
 ## 🙋‍♂️ About Me
-
-- 🌱 Currently pursuing **BSc (Hons) in Software Engineering** at NIBM
-- 👀 Deeply interested in **Full-Stack Development**, **DevOps**, **UI/UX**, and **React ecosystem** (React • React Native)
-- 🔭 Actively looking to collaborate on **open-source projects**
-- 📫 Reach me: **lahirukawishal33.m@gmail.com**
-- ⚡ Fun fact: I unwind by playing video games 🎮 and watching movies 🍿
-
-<br>
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,tailwind,bootstrap,html,css,git,github,vue,angular,php,java,c,cpp,mysql,postgres,sqlite,figma,vscode" />
-  <br><br>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=ts" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=react" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=nextjs" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=tailwind" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=nodejs" /></code>
-  <code><img height="30" src="https://skillicons.dev/icons?i=git" /></code>
-  <br>
-  ...and more!
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LahiruHaputhanthiri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHaputhanthiri&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHaputhanthiri&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LahiruHaputhanthiri&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br>
-
-## 🐍 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LahiruHaputhanthiri/LahiruHaputhanthiri/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>"The best way to predict the future is to create it."</i> — Peter Drucker
-</div>
-
-<br>
-
----
-
-Feel free to customize colors (e.g. change `theme=radical` to `dracula`, `tokyonight`, `onedark`, etc.), add pinned repositories section, or include latest blog posts / projects later.
-
-If you want a darker theme, more minimal look, or add something specific (like LeetCode stats, recent blog posts, or a 3D contribution globe), just let me know! 🚀
+- 🌱 I’m currently learning **BSc (Hons) in Software Engineering **
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 How to reach me **lahirukawishal33.m@gmail.com**
+- ⚡ Fun fact **I play video games and watch movies**
+&nbsp;&nbsp;<br/>
+<!-- - Developer Profile - <a href="https://developers.google.com/profile/u/108006188011922976562">Clike Me</a> -->
+<p align="center">
+&nbsp;&nbsp;<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/LahiruHaputhanthiri/github-readme-streak-stats">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LahiruHaputhanthiri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHaputhanthiri&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+&nbsp;&nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;</p>
+</p>
+</p>
+<image-card alt="trophy" src="https://github-profile-trophy.vercel.app/?username=LahiruHaputhanthiri&theme=onedark" ></image-card>
+## 📊 My Github Status
+<a href="https://LahiruHaputhanthiri.xyz?ref=github">
+&nbsp;&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LahiruHaputhanthiri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+</a>
+<a href="https://LahiruHaputhanthiri.xyz?ref=github">
+&nbsp;&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHaputhanthiri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+<p align="center">
+&nbsp;&nbsp;Visitor count<br>
+&nbsp;&nbsp;<a href="https://LahiruHaputhanthiri.xyz?ref=github">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/LahiruHaputhanthiri/count.svg" />
+&nbsp;&nbsp;</a>
+</p>
+&nbsp;&nbsp;<br/>
+&nbsp;&nbsp;<center>
+&nbsp;&nbsp;<b>Note:</b> I really enjoy learning languages and
+frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy
+ui, ux, and design in general.
+</center>
+<br/><br/>
+**languages and tools:**</hr>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height = "20" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<br/>
+## Snake eating my contributions graph
+<image-card alt="snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" ></image-card>
