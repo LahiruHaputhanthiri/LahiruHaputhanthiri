@@ -111,18 +111,3 @@ Made with ❤️ in Sri Lanka
 
 ---
 
-### Key Improvements Made:
-- **Modern look** — Clean shields.io badges, consistent theming (tokyonight), better spacing.
-- **Fixed issues** — Corrected LinkedIn URL, updated typing SVG text, modern stats cards.
-- **Better performance** — Smaller images, responsive layout, fewer heavy elements.
-- **Professional feel** — Short, impactful bio + clear sections.
-- **Dynamic** — Stats, streak, and trophies update automatically.
-- **Mobile-friendly** — Centered content and proper alignment.
-
-### How to Use It:
-1. Go to your repository: `https://github.com/LahiruHaputhanthiri/LahiruHaputhanthiri`
-2. Edit the `README.md` file.
-3. Paste the code above (replace everything).
-4. Commit the changes.
-
-Would you like a **darker theme** version, **more minimal** style, or any custom additions (like featured projects section with your actual repos)? Just let me know!
