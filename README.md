@@ -1,90 +1,128 @@
 <p align="center">
-&nbsp;<a href="https://github.com/LahiruHaputhanthiri">
-&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
-&nbsp;</a>
+  <a href="https://github.com/LahiruHaputhanthiri">
+    <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="400" alt="Astrocat" />
+  </a>
 </p>
-<p align="center" width="100%">
-&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Lahiru%20Haputhanthiri;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Writer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
-</p>
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka. I learned a lot from the open-source community and love how collaboration and knowledge sharing happen through open-source. I'm also deeply interested in DevOps Engineering, exploring ways to automate and streamline development and deployment processes for efficient software delivery.</h3>
-<br/>
-<br/>
-<!-- Social icons section -->
+
 <p align="center">
-<a href="www.linkedin.com/in/lahiru-kavishal" target="_blank">
-&nbsp;&nbsp;<img align="center" alt="Lahiru Kavishal | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/27490211/lahiru-kavishal" target="_blank">
-&nbsp;&nbsp;<img align="center" alt="Lahiru Kavishal | Stackoverflow" width="24px" src="https://img.icons8.com/color/2x/stackoverflow.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/thushara.lahiru/" target="_blank">
-&nbsp;&nbsp;<img align="center" alt="Thushara Lahiru | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a> &nbsp;&nbsp;
-<p>
-&nbsp;
-<br/>
-<!-- Badges with custom icons section -->
-<p align="center" width="100%">
-<a href="https://github.com/LahiruHaputhanthiri?tab=followers" target="_blank">
-&nbsp;&nbsp;<img align="center" alt="LahiruHaputhanthiri | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=LahiruHaputhanthiri&style=plastic" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/LahiruHaputhanthiri?tab=followers" target="_blank">
-&nbsp;&nbsp;<img align="center" alt="Lahiru Haputhanthiri | followers" width="93px" src="https://img.shields.io/github/followers/LahiruHaputhanthiri?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Lahiru%20Kavishal;Full%20Stack%20Developer;Open%20Source%20Enthusiast;DevOps%20Explorer;Software%20Engineering%20Student&font=Fira%20Code&center=true&width=500&height=50&color=FF4136&vCenter=true&size=28" alt="Typing SVG" />
 </p>
+
+<h3 align="center">
+  Passionate Full Stack Developer from Sri Lanka 🇱🇰<br/>
+  Building scalable web & mobile apps • Exploring DevOps & automation • Open source lover
+</h3>
+
 <br/>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lahiru-kavishal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/27490211/lahiru-kavishal" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/thushara.lahiru/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:lahirukawishal33.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LahiruHaputhanthiri&label=Profile%20Views&color=FF4136&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LahiruHaputhanthiri?label=Followers&style=for-the-badge&color=FF4136" alt="Followers" />
+</p>
+
+---
+
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering **
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **lahirukawishal33.m@gmail.com**
-- ⚡ Fun fact **I play video games and watch movies**
-&nbsp;&nbsp;<br/>
-<!-- - Developer Profile - <a href="https://developers.google.com/profile/u/108006188011922976562">Clike Me</a> -->
+
+- 🌱 Currently pursuing **BSc (Hons) in Software Engineering** at National Institute of Business Management (NIBM)
+- 💻 Passionate about **Full Stack Development**, **React/React Native**, **UI/UX Design**, and **DevOps**
+- 👯 Actively looking to collaborate on **Open Source Projects**
+- 📫 Reach me at: **lahirukawishal33.m@gmail.com**
+- ⚡ Fun fact: I love playing video games and watching movies in my free time
+
+---
+
+## 🔥 GitHub Stats
+
 <p align="center">
-&nbsp;&nbsp;<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/LahiruHaputhanthiri/github-readme-streak-stats">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LahiruHaputhanthiri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHaputhanthiri&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-&nbsp;&nbsp;&nbsp;&nbsp;</a>
-&nbsp;&nbsp;</p>
+  <a href="https://github.com/LahiruHaputhanthiri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LahiruHaputhanthiri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/LahiruHaputhanthiri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHaputhanthiri&layout=compact&theme=tokyonight&hide_border=true&hide=html" />
+  </a>
 </p>
-</p>
-<image-card alt="trophy" src="https://github-profile-trophy.vercel.app/?username=LahiruHaputhanthiri&theme=onedark" ></image-card>
-## 📊 My Github Status
-<a href="https://LahiruHaputhanthiri.xyz?ref=github">
-&nbsp;&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LahiruHaputhanthiri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-</a>
-<a href="https://LahiruHaputhanthiri.xyz?ref=github">
-&nbsp;&nbsp;<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHaputhanthiri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+
 <p align="center">
-&nbsp;&nbsp;Visitor count<br>
-&nbsp;&nbsp;<a href="https://LahiruHaputhanthiri.xyz?ref=github">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/LahiruHaputhanthiri/count.svg" />
-&nbsp;&nbsp;</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHaputhanthiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-&nbsp;&nbsp;<br/>
-&nbsp;&nbsp;<center>
-&nbsp;&nbsp;<b>Note:</b> I really enjoy learning languages and
-frameworks like React and React Native, as well as learning Software Engineering Degree. And also enjoy
-ui, ux, and design in general.
-</center>
-<br/><br/>
-**languages and tools:**</hr>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height = "20" src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<br/>
-## Snake eating my contributions graph
-<image-card alt="snake gif" src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif" ></image-card>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LahiruHaputhanthiri&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="Vue" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="30" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution" />
+</p>
+
+---
+
+**Note:** I enjoy learning new languages and frameworks (especially React ecosystem), UI/UX design, and building clean, efficient applications. Always open to interesting collaborations!
+
+---
+
+Made with ❤️ in Sri Lanka
+
+---
+
+### Key Improvements Made:
+- **Modern look** — Clean shields.io badges, consistent theming (tokyonight), better spacing.
+- **Fixed issues** — Corrected LinkedIn URL, updated typing SVG text, modern stats cards.
+- **Better performance** — Smaller images, responsive layout, fewer heavy elements.
+- **Professional feel** — Short, impactful bio + clear sections.
+- **Dynamic** — Stats, streak, and trophies update automatically.
+- **Mobile-friendly** — Centered content and proper alignment.
+
+### How to Use It:
+1. Go to your repository: `https://github.com/LahiruHaputhanthiri/LahiruHaputhanthiri`
+2. Edit the `README.md` file.
+3. Paste the code above (replace everything).
+4. Commit the changes.
+
+Would you like a **darker theme** version, **more minimal** style, or any custom additions (like featured projects section with your actual repos)? Just let me know!
